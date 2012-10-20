@@ -790,3 +790,7 @@ goog.addDependency('../../../../third_party/goog/third_party/closure/goog/osapi/
 goog.addDependency('../../../../third_party/goog/third_party/closure/goog/silverlight/clipboardbutton.js', ['goog.silverlight.ClipboardButton', 'goog.silverlight.ClipboardButtonType', 'goog.silverlight.ClipboardEvent', 'goog.silverlight.CopyButton', 'goog.silverlight.PasteButton', 'goog.silverlight.PasteButtonEvent'], ['goog.asserts', 'goog.events.Event', 'goog.math.Size', 'goog.silverlight', 'goog.ui.Component']);
 goog.addDependency('../../../../third_party/goog/third_party/closure/goog/silverlight/silverlight.js', ['goog.silverlight'], []);
 goog.addDependency('../../../../third_party/goog/third_party/closure/goog/silverlight/supporteduseragent.js', ['goog.silverlight.supportedUserAgent'], []);
+goog.addDependency('../../../../todo/App.js', ['todo.App'], ['goog.Uri', 'goog.debug.ErrorHandler', 'goog.dom', 'goog.events.EventHandler', 'goog.events.EventTarget', 'goog.net.XhrIo', 'todo.TodoItem', 'todo.templates']);
+goog.addDependency('../../../../todo/Bootstrapper.js', ['todo.Bootstrapper'], ['todo.App']);
+goog.addDependency('../../../../todo/TodoItem.js', ['todo.TodoItem'], []);
+goog.addDependency('../../../../todo/templates/templates.js', ['todo.templates'], ['goog.i18n.DateTimeFormat']);

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "isDone": true,
+        "label": "Sunumu Hazırla",
+        "severity": 3
+    },
+    {
+        "id": 2,
+        "isDone": false,
+        "label": "Workshop kodlarını yaz",
+        "severity": 3
+    },
+    {
+        "id": 3,
+        "isDone": true,
+        "label": "Oyun Oyna",
+        "severity": 1
+    },
+    {
+        "id": 4,
+        "isDone": true,
+        "label": "Blog yazısı yaz",
+        "severity": 2
+    }
+]
