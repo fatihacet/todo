@@ -1,6 +1,7 @@
 goog.provide('todo.TodoItem');
 
 /**
+ * Todo öğelerimizi çizecek ve yönetecek bir class.
  *
  * @param {Object} data
  * @param {Node} container
