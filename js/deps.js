@@ -793,4 +793,4 @@ goog.addDependency('../../../../third_party/goog/third_party/closure/goog/silver
 goog.addDependency('../../../../todo/App.js', ['todo.App'], ['goog.Uri', 'goog.debug.ErrorHandler', 'goog.dom', 'goog.events.EventHandler', 'goog.events.EventTarget', 'goog.net.XhrIo', 'todo.TodoItem', 'todo.templates']);
 goog.addDependency('../../../../todo/Bootstrapper.js', ['todo.Bootstrapper'], ['todo.App']);
 goog.addDependency('../../../../todo/TodoItem.js', ['todo.TodoItem'], []);
-goog.addDependency('../../../../todo/templates/templates.js', ['todo.templates'], ['goog.i18n.DateTimeFormat']);
+goog.addDependency('../../../../todo/templates/templates.js', ['todo.templates'], []);
