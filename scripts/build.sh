@@ -12,7 +12,6 @@ tools/goog/build/closurebuilder.py \
 --compiler_flags="--create_source_map='js/compiled/source_map.js'" \
 --compiler_flags="--property_map_output_file='js/compiled/properties.out'" \
 --compiler_flags="--variable_map_output_file='js/compiled/variables.out'" \
---compiler_flags="--formatting=PRETTY_PRINT" \
 --compiler_flags="--externs=js/externs/jquery.externs.js" \
 --compiler_flags="--externs=js/externs/todo.externs.js" \
 --compiler_flags="--jscomp_error=accessControls" \
