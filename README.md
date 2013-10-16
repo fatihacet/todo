@@ -1,7 +1,7 @@
 todo
 ====
 
-Ozguw Web Gunleri 2012'de yaptığım Google Closure ile Büyük Ölçekli Web Uygulamaları Geliştirmek isimli sunumumun repo'sudur.
+Ozgur Web Gunleri 2012'de yaptığım Google Closure ile Büyük Ölçekli Web Uygulamaları Geliştirmek isimli sunumumun repo'sudur.
 
 
 Closure Library ile basit bir Todo uygulaması nasıl yapılır kodları inceleyerek öğrenebilirsiniz.
