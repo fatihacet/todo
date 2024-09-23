@@ -14,3 +14,8 @@ Sunumu [bu adresten](http://fatihacet.com/presentations/owg/2012/owg-2012-fatiha
 
 
 Basic Todo application to demonstrating Google Closure Library at Ozgur Web Gunleri.
+
+  ### Contributors
+
+  <img src="https://markupgo.com/github/fatihacet/todo/contributors?count=0&circleSize=32&circleRadius=32&center=true" width="100%" /> 
+  
